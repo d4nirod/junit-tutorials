@@ -10,7 +10,7 @@ public class MyClassTest {
 		MyClass tester = new MyClass();
 		tester.multiply(1000,  5);
 	}
-
+// Change #2 
 	@Test
 	public void testMultiply() {
 		MyClass tester = new MyClass();
